@@ -190,13 +190,15 @@ Results are overlaid on the corresponding XCT slices with color-coded scatter po
 
 If you use this code in your research, please cite:
 
-```bibtex
-@misc{ziaeidad2025lpbf,
-  author       = {Erfan Ziaei-Rad},
-  title        = {LPBF XCT Quality Prediction via Spatio-Temporal Transformer},
-  year         = {2025},
-  publisher    = {GitHub},
-  url          = {https://github.com/erfanziad/lpbf-xct-quality-prediction}
+```@article{ziad2026robust,
+  title={Robust Melt Pool Image Analysis for Quality Management in Additive Manufacturing Using Deep Learning},
+  author={Ziad, Erfan and Ju, Feng and Yang, Zhuo and Lu, Yan},
+  journal={Journal of Manufacturing Science and Engineering},
+  volume={148},
+  number={6},
+  pages={064501},
+  year={2026},
+  publisher={American Society of Mechanical Engineers}
 }
 ```
 
