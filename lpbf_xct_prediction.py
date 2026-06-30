@@ -11,7 +11,7 @@ Pipeline:
   7. Detect XCT local extrema and run calibrated anomaly analysis
   8. Visualize results overlaid on XCT slices
 
-Author: Erfan Ziaei-Rad
+Author: Erfan Ziad
 """
 
 # ============================================================
